@@ -1,0 +1,9 @@
+[submodule "customer-front"]
+	path = customer-front
+	url = https://github.com/carlosperezc-dev/customer-front.git
+[submodule "customer-back"]
+	path = customer-back
+	url = https://github.com/carlosperezc-dev/customer-back.git
+[submodule "product-backend"]
+	path = product-backend
+	url = https://github.com/carlosperezc-dev/product-backend.git
